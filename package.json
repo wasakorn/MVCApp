@@ -1,0 +1,22 @@
+{
+  "name": "mvcapp",
+  "version": "1.0.0",
+  "description": "test MVC concept",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasakorn/MVCApp.git"
+  },
+  "keywords": [
+    "MVC"
+  ],
+  "author": "Wasakorn Pakdeesan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasakorn/MVCApp/issues"
+  },
+  "homepage": "https://github.com/wasakorn/MVCApp#readme"
+}
