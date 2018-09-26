@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/wasakorn/MVCApp/issues"
   },
-  "homepage": "https://github.com/wasakorn/MVCApp#readme"
+  "homepage": "https://github.com/wasakorn/MVCApp#readme",
+  "dependencies": {
+    "express": "~4.16.3"
+  }
 }
